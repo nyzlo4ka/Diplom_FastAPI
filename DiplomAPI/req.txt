@@ -1,0 +1,5 @@
+fastapi[all]
+pydantic==2.10.3
+SQLAlchemy==2.0.30
+uvicorn==0.32.1
+requests
